@@ -410,4 +410,6 @@ ul.row {
 
 .footer-address {
     color: var(--text-color);
+    display: flex;
+    flex-flow: row wrap;
 }
